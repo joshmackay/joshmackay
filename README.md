@@ -25,4 +25,4 @@ but I used that as an opportunity to pursue web development which has been a lon
 
 ## Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,tailwind,react,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,py,vscode)](https://skillicons.dev)
