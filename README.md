@@ -20,7 +20,7 @@ I'm a front end developer based in Geelong and Melbourne, Australia.
 I have a background in engineering and business.  My businesses didn't survive the pandemic,
 but I used that as an opportunity to pursue web development which has been a long time interest.
 
-##Contact
+## Contact
 
 
-##Languages and Tools 
+## Languages and Tools 
