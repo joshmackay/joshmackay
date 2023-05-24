@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 ## About
 
-I'm a front end developer based in Geelong and Melbourne, Australia.  
-I have a background in engineering and business.  My businesses didn't survive the pandemic,
+I'm a front end developer based in Melbourne, Australia.  
+I have a background in engineering and business.  My businesses didn't recover from the pandemic,
 but I used that as an opportunity to pursue web development which has been a long time interest.
-
-## Contact
-
 
 ## Languages and Tools 
 
