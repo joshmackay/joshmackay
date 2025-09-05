@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 ## About
 
-I'm a front end developer based in Melbourne, Australia.  
+I'm a web/software developer based in Colombia (previously Melbourne, Australia).
 I have a background in engineering and business.  My businesses didn't recover from the pandemic,
 but I used that as an opportunity to pursue web development which has been a long time interest.
 
+🔭 I’m currently working on building TanqYa.  A mobile app for Colombians to find the cheapest petrol prices in their area.
+
 ## Languages and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,npm,nodejs,cs,dotnet,tailwind,react,py,webstorm,rider,visualstudio,vscode,github,postgres,postman,supabase,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,npm,nodejs,cs,dotnet,tailwind,react,py,webstorm,rider,visualstudio,vscode,github,postgres,sql,postman,supabase,flutter)](https://skillicons.dev)
